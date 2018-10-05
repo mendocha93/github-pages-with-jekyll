@@ -16,3 +16,8 @@ github_username:  your-github-handle
 show_excerpts: false # set to false to remove excerpts on the homepage
 
 theme: minima
+
+---
+title: "airplane"
+date: 2018-10-05
+---
